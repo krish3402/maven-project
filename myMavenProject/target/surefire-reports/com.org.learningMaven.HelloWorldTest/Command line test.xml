@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Krish" name="com.org.learningMaven.HelloWorldTest" tests="1" failures="0" timestamp="2 Aug 2019 18:13:33 GMT" time="13.468" errors="0">
+  <testcase name="Login" time="13.448" classname="com.org.learningMaven.HelloWorldTest"/>
+</testsuite>
