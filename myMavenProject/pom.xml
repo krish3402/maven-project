@@ -45,4 +45,17 @@
   		</dependency>
   	</dependencies>
   </dependencyManagement>
+  
+  <distributionManagement>
+  <repository>
+     <id>deployment</id>
+     <name>Internal Releases</name>
+     <url>http://52.91.24.249:8080/nexus-latest/content/repositories/releases/</url>
+  </repository>
+  <snapshotRepository>
+     <id>deployment</id>
+     <name>snapshot </name>
+     <url>http://52.91.24.249:8080/nexus-latest/content/repositories/snapshots/</url>
+  </snapshotRepository>
+</distributionManagement>
 </project>

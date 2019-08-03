@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.org.learningMaven.HelloWorldTest" duration-ms="1181" started-at="2019-08-03T16:34:51Z" finished-at="2019-08-03T16:34:52Z">
+  <suite name="com.org.learningMaven.HelloWorldTest" duration-ms="56" started-at="2019-08-03T17:23:18Z" finished-at="2019-08-03T17:23:19Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="1181" started-at="2019-08-03T16:34:51Z" finished-at="2019-08-03T16:34:52Z">
+    <test name="Command line test" duration-ms="56" started-at="2019-08-03T17:23:18Z" finished-at="2019-08-03T17:23:19Z">
       <class name="com.org.learningMaven.HelloWorldTest">
-        <test-method status="PASS" signature="Login()" name="Login" duration-ms="1086" started-at="2019-08-03T16:34:51Z" finished-at="2019-08-03T16:34:52Z">
+        <test-method status="PASS" signature="Login()" name="Login" duration-ms="25" started-at="2019-08-03T17:23:19Z" finished-at="2019-08-03T17:23:19Z">
         </test-method>
       </class>
     </test>
